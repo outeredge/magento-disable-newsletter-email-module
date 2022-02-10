@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <newletteroptions>
+            <email>
+                <confirmation_request>1</confirmation_request>
+                <confirmation_success>1</confirmation_success>
+                <unsubscribe>1</unsubscribe>
+            </email>
+        </newletteroptions>
+    </default>
+</config>
