@@ -2,7 +2,7 @@
 [![Packagist](https://img.shields.io/packagist/dt/outeredge/magento-newsletter-disable-email?style=for-the-badge)](https://packagist.org/packages/outeredge/magento-newsletter-disable-email)
 [![Packagist](https://img.shields.io/packagist/dm/outeredge/magento-newsletter-disable-email?style=for-the-badge)](https://packagist.org/packages/outeredge/magento-newsletter-disable-email)
 
-# outer/edge Disable Magento 2 Newsletter Emails
+# Disable Newsletter Emails for Magento 2 by outer/edge
 
 With this module you can choose to disable the build in newsletter confirmation email notifications. For example, when a customer subscriber subscribed or unsubscribes from the newsletter. This is particularly useful if you are using an external newsletter platform which handles the confirmation emails.
 
