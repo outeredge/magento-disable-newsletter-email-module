@@ -3,9 +3,9 @@
     <default>
         <newletteroptions>
             <email>
-                <confirmation_request>1</confirmation_request>
-                <confirmation_success>1</confirmation_success>
-                <unsubscribe>1</unsubscribe>
+                <confirmation_request>0</confirmation_request>
+                <confirmation_success>0</confirmation_success>
+                <unsubscribe>0</unsubscribe>
             </email>
         </newletteroptions>
     </default>
