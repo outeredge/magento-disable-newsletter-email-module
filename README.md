@@ -4,7 +4,9 @@
 
 # Disable Newsletter Emails for Magento 2 by outer/edge
 
-With this module you can choose to disable the build in newsletter confirmation email notifications. For example, when a customer subscriber subscribed or unsubscribes from the newsletter. This is particularly useful if you are using an external newsletter platform which handles the confirmation emails.
+With this module you can disable the built-in newsletter confirmation email notifications. For example, when a customer subscribes or unsubscribes from the newsletter. 
+
+This is particularly useful if you are using an external newsletter platform which handles the confirmation emails, such as Klaviyo or Mailchimp.
 
 ## Installation
 
@@ -26,4 +28,4 @@ Configuration is available in `Stores > Configuration > outer/edge > Newsletter 
 * **Enable Confirmation Success Email:** Enable or disable the newsletter confirmation success email.
 * **Enable Unsubscribe Email:** Enable or disable the newsletter unsubscribe email.
 
-Once the module is installed and configured only the emails which are still enabled will be sent to the customer they sign up, confirm or unsubscribe from the newsletter.
+Once the module is installed and configured, only the emails that are still enabled will be sent to customers who sign up, confirm, or unsubscribe from the newsletter.
